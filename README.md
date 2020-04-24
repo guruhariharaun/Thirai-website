@@ -6,7 +6,7 @@
 <h1 align="center"><b>Online Movie Presenter for small organisations</b></h1>
 
 <p align="center">
-  <a href="/LICENSE"><img src="https://img.shields.io/github/license/guruhariharaun/Registration-and-Login-Form-in-Nodejs-and-MongoDB.svg?style=flat-square"></a>
+  <a href="/LICENSE"><img src="https://img.shields.io/github/license/guruhariharaun/Thirai-website.svg?style=flat-square"></a>
 </p>
 
 
