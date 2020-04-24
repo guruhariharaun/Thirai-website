@@ -46,7 +46,7 @@ Tested on Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 with 10.4.6-MariaDB
 
 | 				Desktop View 			          |                 MobilePhone View   		   			  						   | 
 | ----------------------------------------------- | ------------------------------------------------------------------------------ |
-| <img src="./docs/images/ui_1.gif" height="350" width="550"/> | <img src="./docs/images/adminpan.gif" height="350" width="200" /> | 
+| <img src="/docs/images/ui_1.gif" height="350" width="550"/> | <img src="/docs/images/adminpan.gif" height="350" width="200" /> | 
 
 - The whole website is developed using <b>Bootsrap Framework</b>. Fully Responsive website for all the types of devices 
 - The color scheme of the User-Interface is specially made for the <b>Night owls</b>.  
@@ -55,13 +55,13 @@ Tested on Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 with 10.4.6-MariaDB
 
 | 		403 Error Landing Page	  		|		404 Error Landing Page 	     |   	  	  
 | ------------------------------------- |----------------------------------- | 
-| <img src="./docs/images/403.PNG"/> 	| <img src="./docs/images/404.PNG"/> | 
+| <img src="/docs/images/403.PNG"/> 	| <img src="/docs/images/404.PNG"/> | 
 
 - The admin Login is simply on its sleek.
 
 | 				Admin Login Desktop View 			          		 |  Admin Login Mobile Phone View   		   			  	   		    | 
 | ------------------------------------------------------------------ |--------------------------------------------------------------------- | 
-| <img src="./docs/images/admin.PNG" height="350px" width="700px" /> | <img src="./docs/images/adminm.jpeg" width="250px" height="350px" /> | 
+| <img src="/docs/images/admin.PNG" height="350px" width="700px" /> | <img src="/docs/images/adminm.jpeg" width="250px" height="350px" /> | 
 
 
 - The admin Login is simply on its sleek.
@@ -88,14 +88,14 @@ Tested on Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 with 10.4.6-MariaDB
 
 | 		Movie Upload Panel	 	  		|	  	  
 | ------------------------------------- |
-| <img src="./docs/images/reg.PNG" height="300px" width="300px" /> 	|  						 		   							
+| <img src="/docs/images/reg.PNG" height="300px" width="300px" /> 	|  						 		   							
 
 - These data's are uploaded into Database and retrive.
 - Cookies have been implemented to find the particular movie which the user have been created.
 - Sessions have also been implemented to have secure login.
   	  
 
-<img src="./docs/images/ui_3.gif" height="300px" width="500px" /> 
+<img src="/docs/images/ui_3.gif" height="300px" width="500px" /> 
 <br>
 <br>
 
