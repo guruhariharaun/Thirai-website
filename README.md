@@ -63,7 +63,7 @@ Tested on Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 with 10.4.6-MariaDB
 - The admin Login is simply on its sleek.
 - The Admin Panel has a neat form to get inputs from admin and populate the Database. Also the Movies which the Admin uploaded will be displayed below the form
 - These contents are well animated using scroll animation Library.
-- The a custome error page is also been implemented. 
+- The a custom error page is also been implemented. 
 
 
 | 		403 Error Landing Page	  		|		404 Error Landing Page 	     |   	  	  
