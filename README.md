@@ -53,11 +53,6 @@ Tested on Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 with 10.4.6-MariaDB
 - The color scheme of the User-Interface is specially made for the <b>Night owls</b>.  
 - The hovering animation have been implemented i.e. when you hover on a movie card you can see some hovering effect which is made with pure css.
 - <b>About Me</b> and <b>Technologies Used</b> page is also included on the `index`
-
-| 		403 Error Landing Page	  		|		404 Error Landing Page 	     |   	  	  
-| ------------------------------------- |----------------------------------- | 
-| <img src="/docs/images/403.PNG"/> 	| <img src="/docs/images/404.PNG"/> | 
-
 - The admin Login is simply on its sleek.
 
 | 				Admin Login Desktop View 			          		 |  Admin Login Mobile Phone View   		   			  	   		    | 
@@ -68,7 +63,12 @@ Tested on Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 with 10.4.6-MariaDB
 - The admin Login is simply on its sleek.
 - The Admin Panel has a neat form to get inputs from admin and populate the Database. Also the Movies which the Admin uploaded will be displayed below the form
 - These contents are well animated using scroll animation Library.
-- The a custome error page is also been implemented.  
+- The a custome error page is also been implemented. 
+
+
+| 		403 Error Landing Page	  		|		404 Error Landing Page 	     |   	  	  
+| ------------------------------------- |----------------------------------- | 
+| <img src="/docs/images/403.PNG"/> 	| <img src="/docs/images/404.PNG"/> | 
 
 ### Back-end 
 - This is two-ended system (Both for **admin** and **public**) can access.
