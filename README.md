@@ -45,7 +45,7 @@ Tested on Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 with 10.4.6-MariaDB
 ### User-Interface
 | 				User Interface 			                               			| 
 | ----------------------------------------------------------------------------- | 
-| <img src="/docs/images/1.png" width="650" style="border: 1px solid black;"/> | 
+| <img src="/docs/images/1.PNG" width="650" style="border: 1px solid black;"/> | 
 
 
 - The whole website is developed using <b>Bootsrap Framework</b>. Fully Responsive website for all the types of devices 
