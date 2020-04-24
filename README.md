@@ -9,10 +9,6 @@
 <p align="center">
   <a href="/LICENSE"><img src="https://img.shields.io/github/license/guruhariharaun/Thirai-website.svg?style=flat-square"></a>
 </p>
-<p align="center">
-  <a href="/LICENSE"><img src="https://img.shields.io/github/license/guruhariharaun/.svg?style=flat-square"></a>
-</p>
-
 
 ### Why are we doing it?
 Since in this modern days the worth for watching movie on online have been improved. So i made this project where you can upload the Movie details like Movie Name, Movie Image, Director, Cast, Storyline and much more. Also the cool features is, we can even upload the Movie file or torrent file to the web server. All these details can viewed/download by the users. 
