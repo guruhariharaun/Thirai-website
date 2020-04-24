@@ -16,6 +16,8 @@ Since in this modern days the worth for watching movie on online have been impro
 This Project is **[Live](https://thiraimovies.000webhostapp.com/)** on: 🌍 **https://thiraimovies.000webhostapp.com/**
 
 |ADMIN Password | Guru |
+| ------------- | ---- |
+
 <br>
 
 ## Getting Started
