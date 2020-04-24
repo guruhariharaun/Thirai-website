@@ -5,7 +5,6 @@
 </h1>
 <h1 align="center"><b>Online Movie Presenter for small organisations</b></h1>
 
-
 <p align="center">
   <a href="/LICENSE"><img src="https://img.shields.io/github/license/guruhariharaun/Thirai-website.svg?style=flat-square"></a>
 </p>
@@ -43,15 +42,28 @@ Tested on Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 with 10.4.6-MariaDB
 ```
 
 ### User-Interface
-| 				User Interface 			                               			| 
-| ----------------------------------------------------------------------------- | 
-| <img src="/docs/images/1.PNG" width="650" style="border: 1px solid black;"/> | 
 
+
+| 				Desktop View 			          |                 MobilePhone View   		   			  						   | 
+| ----------------------------------------------- | ------------------------------------------------------------------------------ |
+| <img src="./docs/images/ui_1.gif" height="350" width="550"/> | <img src="./docs/images/adminpan.gif" height="350" width="200" /> | 
 
 - The whole website is developed using <b>Bootsrap Framework</b>. Fully Responsive website for all the types of devices 
 - The color scheme of the User-Interface is specially made for the <b>Night owls</b>.  
 - The hovering animation have been implemented i.e. when you hover on a movie card you can see some hovering effect which is made with pure css.
 - <b>About Me</b> and <b>Technologies Used</b> page is also included on the `index`
+
+| 		403 Error Landing Page	  		|		404 Error Landing Page 	     |   	  	  
+| ------------------------------------- |----------------------------------- | 
+| <img src="./docs/images/403.PNG"/> 	| <img src="./docs/images/404.PNG"/> | 
+
+- The admin Login is simply on its sleek.
+
+| 				Admin Login Desktop View 			          		 |  Admin Login Mobile Phone View   		   			  	   		    | 
+| ------------------------------------------------------------------ |--------------------------------------------------------------------- | 
+| <img src="./docs/images/admin.PNG" height="350px" width="700px" /> | <img src="./docs/images/adminm.jpeg" width="250px" height="350px" /> | 
+
+
 - The admin Login is simply on its sleek.
 - The Admin Panel has a neat form to get inputs from admin and populate the Database. Also the Movies which the Admin uploaded will be displayed below the form
 - These contents are well animated using scroll animation Library.
@@ -61,7 +73,8 @@ Tested on Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 with 10.4.6-MariaDB
 - This is two-ended system (Both for **admin** and **public**) can access.
 - Only Admin have privilage to Post / Edit / Delete the Moives.
 - The Movies are displayed at index page on the recently added.
-- 
+
+ 
 |S.no|The Admin can upload data's like:	|
 |----|----------------------------------|
 |1	 |Movie's named						|
@@ -70,11 +83,19 @@ Tested on Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 with 10.4.6-MariaDB
 |4   |Director 							|
 |5   |Storyline 						|
 |6   |Cast 								|
-|7   |Download Link						|							 		   							
+|7   |Download Link						|	
+
+
+| 		Movie Upload Panel	 	  		|	  	  
+| ------------------------------------- |
+| <img src="./docs/images/reg.PNG" height="300px" width="300px" /> 	|  						 		   							
 
 - These data's are uploaded into Database and retrive.
 - Cookies have been implemented to find the particular movie which the user have been created.
 - Sessions have also been implemented to have secure login.
+  	  
+
+<img src="./docs/images/ui_3.gif" height="300px" width="500px" /> 
 <br>
 <br>
 
