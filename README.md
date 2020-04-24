@@ -5,8 +5,12 @@
 </h1>
 <h1 align="center"><b>Online Movie Presenter for small organisations</b></h1>
 
+
 <p align="center">
   <a href="/LICENSE"><img src="https://img.shields.io/github/license/guruhariharaun/Thirai-website.svg?style=flat-square"></a>
+</p>
+<p align="center">
+  <a href="/LICENSE"><img src="https://img.shields.io/github/license/guruhariharaun/.svg?style=flat-square"></a>
 </p>
 
 
