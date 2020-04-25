@@ -107,9 +107,9 @@ Tested on Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 with 10.4.6-MariaDB
 
 ## Development
 
-| Update                |  status	                                         	    |
-| --------------------- | :---------------------------------------------------- |
-| 	**24-04-2020** 		  |  	Web application is Hosted and deployed.				      | 
+| Update                |  Action                                          	                                       |
+| --------------------- | :--------------------------------------------------------------------------------------- |
+| 	**24-04-2020** 		  |  	Web application is Hosted and deployed [Here](https://thiraimovies.000webhostapp.com/).| 
 
 ### Future Versions
 - Admin Registration would be implemented with lot's of features like mailer, password reset etc...
