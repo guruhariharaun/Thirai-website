@@ -3,6 +3,7 @@
   <img src="./docs/images/logo.png"  height="100px">
   <br>
 </h1>
+
 <h1 align="center"><b>Online Movie Presenter for small organisations</b></h1>
 
 <p align="center">
