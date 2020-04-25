@@ -126,8 +126,8 @@ Tested on Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 with 10.4.6-MariaDB
 
 
 ## Acknowledgments
-* Hat tip to anyone whose code was used.
-* Special mention to SVCE-CSI for Organizing this event.
+* Hat tip to anyone whose code was used.✌
+* Special mention to SVCE-CSI for Organizing this event.😁
 
 <br><br>
 <div align="center">
@@ -135,4 +135,3 @@ Tested on Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 with 10.4.6-MariaDB
 <p align="center">
   Made with ❤️ by <a href="https://github.com/guruhariharaun">Guru Roxz</a>
 </p>
-
