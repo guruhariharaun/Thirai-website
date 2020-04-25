@@ -50,8 +50,8 @@ Tested on Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 with 10.4.6-MariaDB
 ### User-Interface
 
 
-| 				Desktop View 			          |                 MobilePhone View   		   			  						   | 
-| ----------------------------------------------- | ------------------------------------------------------------------------------ |
+| 				Desktop View 			                                  |                 MobilePhone View   		   			  						     | 
+| ----------------------------------------------------------- | ---------------------------------------------------------------- |
 | <img src="/docs/images/ui_1.gif" height="350" width="550"/> | <img src="/docs/images/adminpan.gif" height="350" width="200" /> | 
 
 - The whole website is developed using <b>Bootsrap Framework</b>. Fully Responsive website for all the types of devices 
@@ -60,9 +60,9 @@ Tested on Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 with 10.4.6-MariaDB
 - <b>About Me</b> and <b>Technologies Used</b> page is also included on the `index`
 - The admin Login is simply on its sleek.
 
-| 				Admin Login Desktop View 			          		 |  Admin Login Mobile Phone View   		   			  	   		    | 
-| ------------------------------------------------------------------ |--------------------------------------------------------------------- | 
-| <img src="/docs/images/admin.PNG" height="350px" width="700px" /> | <img src="/docs/images/adminm.jpeg" width="250px" height="350px" /> | 
+| 				Admin Login Desktop View 			          		            |  Admin Login Mobile Phone View   		   			  	   		            | 
+| --------------------------------------------------------------- |-------------------------------------------------------------------| 
+|<img src="/docs/images/admin.PNG" height="350px" width="700px" />|<img src="/docs/images/adminm.jpeg" width="250px" height="350px" />| 
 
 
 - The admin Login is simply on its sleek.
@@ -71,8 +71,8 @@ Tested on Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 with 10.4.6-MariaDB
 - The a custom error page is also been implemented. 
 
 
-| 		403 Error Landing Page	  		|		404 Error Landing Page 	     |   	  	  
-| ------------------------------------- |----------------------------------- | 
+| 		403 Error Landing Page	  		  |		404 Error Landing Page 	        |   	  	  
+| ----------------------------------- |---------------------------------- | 
 | <img src="/docs/images/403.PNG"/> 	| <img src="/docs/images/404.PNG"/> | 
 
 ### Back-end 
@@ -83,17 +83,17 @@ Tested on Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 with 10.4.6-MariaDB
  
 |S.no|The Admin can upload data's like:	|
 |----|----------------------------------|
-|1	 |Movie's named						|
-|2 	 |Movie's Poster Image 				|	
-|3   |Trailer Link 						|
-|4   |Director 							|
-|5   |Storyline 						|
-|6   |Cast 								|
-|7   |Download Link						|	
+|1	 |Movie's named						          |
+|2 	 |Movie's Poster Image 				      |	
+|3   |Trailer Link 						          |
+|4   |Director 							            |
+|5   |Storyline 						            |
+|6   |Cast 								              |
+|7   |Download Link						          |	
 
 
-| 		Movie Upload Panel	 	  		|	  	  
-| ------------------------------------- |
+| 		Movie Upload Panel	 	  		                                  | 	  	  
+| ----------------------------------------------------------------- |
 | <img src="/docs/images/reg.PNG" height="300px" width="300px" /> 	|  						 		   							
 
 - These data's are uploaded into Database and retrive.
@@ -107,9 +107,14 @@ Tested on Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 with 10.4.6-MariaDB
 
 ## Development
 
-| Update                |  status	                                         	|
+| Update                |  status	                                         	    |
 | --------------------- | :---------------------------------------------------- |
-| 	**24-04-2020** 		|  	Web application is Hosted and deployed.				|  	
+| 	**24-04-2020** 		  |  	Web application is Hosted and deployed.				      | 
+
+### Future Versions
+- Admin Registration would be implemented with lot's of features like mailer, password reset etc...
+- Security would be implemented like 2FA, rebuilding the code to overcome the SQL-Injuction, Session Hijacking attacks.
+- Some User Interface changes like adding preloader kinda Fancy stuff  etc... 
 
 <br>
 
